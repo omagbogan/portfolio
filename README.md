@@ -1,6 +1,6 @@
-# Portfolio — Obed Michael Agbogan
+# Portfolio — Obed Mickael Agbogan
 
-Portfolio HTML/CSS/JavaScript inspiré du design de référence partagé.
+Portfolio HTML/CSS/JavaScript
 
 ## Couleurs
 - Bleu nuit : #03022E
@@ -12,13 +12,3 @@ Portfolio HTML/CSS/JavaScript inspiré du design de référence partagé.
 1. Ouvrir `index.html` dans un navigateur.
 2. Pour un meilleur confort de développement, utiliser l'extension VS Code "Live Server".
 
-## Personnalisation rapide
-- Remplacer `images/profile-placeholder.svg` par ta vraie photo.
-- Remplacer les liens `#` de LinkedIn/GitHub par tes vrais profils.
-- Remplacer `assets/cv-obed-michael-agbogan.pdf` par ton vrai CV.
-- Modifier l'email dans `index.html`.
-- Ajouter les URL réelles de tes projets.
-
-## Notes
-Le formulaire de contact est actuellement en mode démonstration côté front-end.
-Pour recevoir réellement les messages, il faut le connecter à un backend ou à un service d'envoi.
