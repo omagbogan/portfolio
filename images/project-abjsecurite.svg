@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#03022E"/>
+  <path d="M0 520C210 410 350 610 580 500s390-70 620 40v160H0z" fill="#FF9440" opacity=".25"/>
+  <rect x="110" y="85" width="980" height="530" rx="36" fill="#FFFFFF" opacity=".95"/>
+  <path d="M190 160h820v360H190z" fill="#F6F6F8"/>
+  <path d="M230 225h740M230 300h740M230 375h740M230 450h740" stroke="#D5D4D4" stroke-width="3"/>
+  <path d="M350 170v330M500 170v330M650 170v330M800 170v330" stroke="#D5D4D4" stroke-width="3"/>
+  <circle cx="710" cy="340" r="110" fill="#FF9440" opacity=".85"/>
+  <circle cx="710" cy="340" r="65" fill="#03022E"/>
+  <text x="710" y="360" text-anchor="middle" font-family="Arial" font-size="46" font-weight="700" fill="#FFFFFF">67%</text>
+  <text x="280" y="570" font-family="Arial" font-size="22" font-weight="700" fill="#03022E">RISK MAP / ABIDJAN</text>
+</svg>

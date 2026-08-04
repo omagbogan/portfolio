@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D5D4D4"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03022E"/>
+      <stop offset="1" stop-color="#0D0C5E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="650" cy="160" r="110" fill="#FF9440" opacity=".45"/>
+  <circle cx="150" cy="780" r="160" fill="#03022E" opacity=".10"/>
+  <ellipse cx="400" cy="870" rx="285" ry="210" fill="url(#shirt)"/>
+  <circle cx="400" cy="370" r="170" fill="#b7815e"/>
+  <path d="M225 350c20-150 87-230 177-230 120 0 198 82 186 236-42-46-93-73-158-73-84 0-138 25-205 67z" fill="#101010"/>
+  <path d="M235 424c36 95 90 144 167 144 73 0 137-50 166-143-16 153-72 235-168 235-98 0-149-91-165-236z" fill="#b7815e"/>
+  <circle cx="335" cy="372" r="13" fill="#03022E"/>
+  <circle cx="465" cy="372" r="13" fill="#03022E"/>
+  <path d="M356 470c32 24 60 24 89 0" stroke="#03022E" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M300 600c63 34 135 35 200 0" stroke="#FF9440" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <text x="400" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" opacity=".92">OBED MICHAEL</text>
+</svg>
