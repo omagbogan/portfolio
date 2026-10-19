@@ -917,7 +917,7 @@ img {
   padding: 30px;
   display: flex;
   flex-direction: column;
-  min-height: 100%;
+  flex: 1;
 }
 
 .project-type {
@@ -985,6 +985,11 @@ img {
   border-color: var(--orange);
   color: var(--white);
   transform: translateY(-2px);
+}
+
+.project-card:not(.project-large) {
+  display: flex;
+  flex-direction: column;
 }
 
 .project-card:not(.project-large) .project-image {
